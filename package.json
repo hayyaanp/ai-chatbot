@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "node --env-file=.env server.js"
+  },
+  "devDependencies": {
+    "openai": "^7.62.0"
+  }
+}
